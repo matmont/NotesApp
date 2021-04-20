@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">NotesApp</string>
+
+    <string name="ext_fab_label">New Note</string>
+
+    <!-- Main Activity -->
+    <string name="new_note_success_snackbar_label">New note added</string>
+    <string name="new_note_success_snackbar_action_label">UNDO</string>
+    <string name="new_note_error_snackbar_label">Nothing changed</string>
+    <string name="note_deleted_snackbar_label">Note deleted</string>
+    <string name="note_deleted_snackbar_action_label">UNDO</string>
+
+    <string name="main_menu_clear_all_label">Clear all</string>
+
+    <!-- New Note Activity -->
+    <string name="new_edit_note_title_label">Title</string>
+    <string name="new_edit_note_message_label">Message</string>
+    <string name="new_edit_note_priority_label">Priority</string>
+    <string name="new_edit_note_button_label">Done</string>
+
+    <string name="new_edit_note_title_error_message">Insert a title</string>
+    <string name="new_edit_note_message_error_message">Insert a message</string>
+    <string name="new_edit_note_length_message_error_message">The message is too long</string>
+</resources>
